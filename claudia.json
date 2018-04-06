@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "apppla-embed-api-executor",
+    "name": "apppla-embed-api",
+    "region": "ap-northeast-1"
+  },
+  "api": {
+    "id": "6cng9t2bg1",
+    "module": "lambda"
+  }
+}
