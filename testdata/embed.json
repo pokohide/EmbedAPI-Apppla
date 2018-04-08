@@ -1,0 +1,9 @@
+{
+  "requestContext": {
+    "resourcePath": "/posts/google_hire",
+    "httpMethod": "GET"
+  },
+  "queryStringParameters": {
+    "type": "summary_large_image"
+  }
+}
