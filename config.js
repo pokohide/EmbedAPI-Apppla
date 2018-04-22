@@ -13,5 +13,11 @@ module.exports = {
   HTTP_HOST: process.env.HTTP_HOST || '0.0.0.0',
   HTTP_PORT: process.env.HTTP_PORT || 8080,
   DEBUG_SQL: process.env.DEBUG_SQL,
-  DATABASE_URL: process.env.DATABASE_URL
+  DATABASE_URL: process.env.DATABASE_URL,
+
+  PG_USER: process.env.PG_USER,
+  PG_PASSWORD: process.env.PG_PASSWORD,
+  PG_DATABASE: process.env.PG_DATABASE,
+  PG_PORT: process.env.PG_PORT,
+  PG_HOST: process.env.PG_HOST
 }
